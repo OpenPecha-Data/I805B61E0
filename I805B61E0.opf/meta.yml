@@ -1,0 +1,28 @@
+id: I805B61E0
+default_language: en
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 14:33:03.885964+00:00
+last_modified: 2022-12-14 14:33:03.885971+00:00
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-03-26T15:32:26.672Z'
+  creationid: celso
+  eft-text-id: UT22084-047-002
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_100-The_Ornament_of_the_Light_of_Awareness-v1
+bases:
+  9BB1:
+    source_metadata: null
+    order: 1
+    base_file: 9BB1.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
